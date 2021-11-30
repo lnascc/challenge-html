@@ -4,3 +4,4 @@
 
 ## 1 - Glossário
 - Criamos um glossário com a tag `<dl>` para fazer uma lista de descrição.
+![glossario](/imgs/glossario.png)
